@@ -1,0 +1,30 @@
+#name.talp
+#version.[0.0.1-egg]
+#author.(name.jerzy_pavka),(mail.jerzypavka@gmail.com)
+   .-.         _         
+  [_ _].---.-.| | .-----.
+   | | | __  || | |  __ |
+   |__]|___._||__]| ____|
+                  |_|    
+  [jbo|jbo_index.html]
+  ======
+/1(main)
+  ============
+/2.1(projects)
+  ============
+/2.1.1(chca)
+  ==========
+chca - simple tool for working with very primitive knowledge bases implemented in C.
+  ============
+/2.1.1.1(download)
+  ============
+* [chca-0.1-egg.tar.gz|chca-0.1-egg.tar.gz]
+  =======
+/2.3contact
+  =======
+[#author.mail] - [#author.name]
+
+  ≥(≡)≤
+  _/"\_
+  p   q
+  copyleft 2023
